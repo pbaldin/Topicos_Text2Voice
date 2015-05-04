@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Topicos_Text2Voice</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_text2_speech">Text2Speech</string>
+    <string name="title_activity_speech2_text">Speech2Text</string>
+</resources>
